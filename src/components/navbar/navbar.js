@@ -11,7 +11,7 @@ import {
   FormControl,
 } from "react-bootstrap"
 import Logo from "./../../assets/logo.png"
-import "./Navbar.css"
+import "./navbar.css"
 export default function NavigationBar() {
   return (
     <div>
