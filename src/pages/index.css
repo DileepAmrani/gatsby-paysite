@@ -1,0 +1,70 @@
+.home_page_main_section {
+  padding: 96px 15px 96px 15px;
+  background-color: #f7f1f2;
+}
+.home_banner {
+  max-width: 470px;
+}
+.heading_box {
+  padding: 48px 0 0 0;
+  margin: 0 0 8px 0;
+}
+.main_heading_text {
+  font-size: 47.6px;
+  font-weight: 400;
+  line-height: 57.12px;
+  color: #363636;
+  display: block;
+}
+._text {
+  font-size: 23.8px;
+  color: #363636;
+  line-height: 28.56px;
+  letter-spacing: 2;
+  word-spacing: 2px;
+  display: block;
+}
+.companys_logo {
+  margin: 0 8px 0 0;
+  min-width: 120px;
+}
+._answers {
+  font-size: 23.8px;
+  color: #6c756c;
+  display: block;
+}
+
+/* Second Section */
+.second_section {
+  /* height: 100vh; */
+  text-align: center;
+  padding: 96px;
+}
+._card {
+  padding: 3%;
+}
+
+._card:hover {
+  background-color: #fff;
+  box-shadow: 2px 2px 2px 2px #888888;
+}
+
+/* Third Section */
+.third_section {
+  padding: 96px 0;
+  text-align: center;
+  background-color: #f4f5f8;
+}
+
+/* Fourth Section */
+
+.fourth_section {
+  padding: 96px 0;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+  ._top_bar {
+    display: none;
+  }
+}

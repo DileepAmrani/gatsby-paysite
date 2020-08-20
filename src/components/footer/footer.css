@@ -1,0 +1,37 @@
+._footer {
+    background-color: #FAFAFA;
+    padding-top: 34px;
+}
+.footer_logo {
+    width: 89px;
+}
+.footermenu {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.footermenu li {
+    padding: 2% 0;
+}
+
+.nav-links{
+    color: #556589;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.nav-links:hover{
+    color: #eb009c;
+}
+
+.social_icons {
+    border: 1px solid #000;
+    margin: 2px;
+    padding: 1px;
+    border-radius: 100px;
+}
+.sub_footer {
+    background-color: #f1f1f1;
+    padding: 24px;
+}
